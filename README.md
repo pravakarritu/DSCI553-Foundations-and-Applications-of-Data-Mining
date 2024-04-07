@@ -2,7 +2,7 @@
 Coursework of DSCI 553 - Foundations and Applications of Data Mining
 
 
-# Quizzes 
+## Quizzes 
 
 Points
 
