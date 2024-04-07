@@ -1,5 +1,5 @@
 # DSCI553
-Coursework of DSCI 553 - Excluding Quizes and Final Exam 
+Coursework of DSCI 553 - Excluding Quizzes and Final Exam 
 
 
 Quizzes 
