@@ -2,7 +2,7 @@
 Coursework of DSCI 553 - Foundations and Applications of Data Mining
 
 
-Quizzes 
+# Quizzes 
 
 Points
 
@@ -32,7 +32,7 @@ Weight Achieved
 
 25.93 / 30 
 
-Homeworks
+# Homeworks
 
 Points
 
@@ -50,11 +50,11 @@ Weight Achieved
 
 39 / 42
 
-Comprehensive Exam
+# Comprehensive Exam
 
 15.34 / 20
 
-Data Mining Competition Project 
+# Data Mining Competition Project 
 
 3.1 / 8
 
