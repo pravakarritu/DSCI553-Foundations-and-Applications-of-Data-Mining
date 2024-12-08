@@ -1,22 +1,43 @@
-# Evaluations of DSCI553-Foundations-and-Applications-of-Data-Mining 
+# Coursework of DSCI 553 - Foundations and Applications of Data Mining
 
-## Quizzes
+#### Quizzes 
 
-![Screenshot from 2024-12-07 00-03-02](https://github.com/user-attachments/assets/2b26d977-13da-4769-88f1-362420323e35)
+Points
+Quiz 1 - 7.5 / 10
+Quiz 2 - 9.1 / 10
+Quiz 3 - 8.5 / 10
+Quiz 4 - 10 / 10
+Quiz 5 - 8 / 10
+Quiz 6 - 9.5 / 10
+Quiz 7 - 8 / 10
+Quiz 8 - 7 / 10 (Dropped)
+Quiz 9 - 6 / 10 (Dropped)
+Quiz 10 - 9.5 / 10
+Quiz 11 - 7.7 / 10
 
+Weight Achieved
+25.93 / 30 
 
-## Homeworks
+#### Homeworks
 
-![Screenshot from 2024-12-07 00-03-36](https://github.com/user-attachments/assets/a50670e8-ad67-4c03-8636-f3034e8f27c8)
+Points
+Homework 1 - 6/7
+Homework 2 - 7/7
+Homework 3 - 7/7
+Homework 4 - 7/7
+Homework 5 - 5/7
 
+Weight Achieved
+39 / 42
 
-## Comprehensive Exam
+#### Comprehensive Exam
 
-![Screenshot from 2024-12-07 00-04-02](https://github.com/user-attachments/assets/e189ab7f-3ff4-4ea4-9856-b85c6a9477d1)
+15.34 / 20
 
-## Data Mining Competition Project
+#### Data Mining Competition Project 
 
-![image](https://github.com/user-attachments/assets/88d1086f-0008-405c-a7d4-0de6cff06d05)
+3.1 / 8
 
+#### Grade
 
-Final Grade : B
+Grade - B 
